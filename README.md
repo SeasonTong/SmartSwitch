@@ -23,5 +23,7 @@
 
 ## 开发
 
+1. 手机打开`Blinker` ，点击`+`
 
+   <img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208210844667.png" alt="image-20220208210844667" style="zoom:80%;" />
 
