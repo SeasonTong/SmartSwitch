@@ -31,10 +31,10 @@
 
 2. 添加`独立设备`
 
-<img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208211227550.png" alt="image-20220208211227550" style="zoom: 80%;" />
+   <img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208211227550.png" alt="image-20220208211227550" style="zoom: 80%;" />
 
 3. 生成`key`，并复制到剪贴板
 
-<img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208211400716.png" alt="image-20220208211400716" style="zoom:80%;" />![image-20220208211423814](https://gitee.com/seasontong/image/raw/master/img/image-20220208211423814.png)
+   <img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208211400716.png" alt="image-20220208211400716" style="zoom:80%;" />![image-20220208211423814](https://gitee.com/seasontong/image/raw/master/img/image-20220208211423814.png)
 
-<img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208211449892.png" alt="image-20220208211449892" style="zoom:80%;" />
+   <img src="https://gitee.com/seasontong/image/raw/master/img/image-20220208211449892.png" alt="image-20220208211449892" style="zoom:80%;" />
