@@ -60,7 +60,7 @@
 
      ```
      char auth[] = "之前获取的Key"; 
-     char ssid[] = "WIF名字"
+     char ssid[] = "WIF名字";
      char pswd[] = "WIFI密码";
      ```
 
@@ -78,7 +78,7 @@
 
   3.  电灯与继电器接线
 
-     ![](https://raw.githubusercontent.com/SeasonTong/ImageHosting/main/img/image-20220213232725102.png)
+     ![img](https://raw.githubusercontent.com/SeasonTong/ImageHosting/main/img/image-20220213232725102.png)
 
      通过以上方式，就可以在APP上进行基本的控制开关了
 
