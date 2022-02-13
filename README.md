@@ -78,7 +78,7 @@
 
   3.  电灯与继电器接线
 
-     ![img](https://raw.githubusercontent.com/SeasonTong/ImageHosting/main/img/image-20220213232725102.png)
+     
 
      通过以上方式，就可以在APP上进行基本的控制开关了
 
