@@ -76,9 +76,9 @@
 
      ![image-20220213232423201](https://raw.githubusercontent.com/SeasonTong/ImageHosting/main/img/image-20220213232423201.png)
 
-  3.  电灯与继电器接线
+  3. 电灯与继电器接线
 
-     1
+1
 
 ### 语音控制
 
